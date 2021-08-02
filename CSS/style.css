@@ -1,0 +1,25 @@
+/*..panda-.panda-.panda-bg-info{
+
+  background-color: darkred !important;
+}*/
+
+.panda-bg-info{
+
+  background-color:#fceae8;
+}
+
+.catagories img{
+
+
+  width: 200px;
+}
+.buttona{
+
+  color:white;
+  padding: 10px;
+  border-radius: 10px;
+  background-color:#ff428d ;
+  border: none;
+
+  
+}
